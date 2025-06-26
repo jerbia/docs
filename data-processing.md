@@ -6,8 +6,6 @@ lastmod: "2024-10-07T09:12:20.386Z"
 weight: "2"
 ---
 
-# Data Processing
-
 Aqua Security makes extensive efforts to safeguard your data, and to maintain its confidentiality, privacy, integrity, and availability. The present document describes how Aqua Platform software and Aqua Security ("Aqua") process your data in accordance with these objectives. It covers data collection, transmission, and storage, as well as the related processes and policies. As Aqua Platform continues to evolve and include new capabilities, we will update our policies and processes, and update this document to reflect these changes.
 
 # Legal implications
@@ -27,6 +25,7 @@ Aqua collects, transmits, and stores only the data that is necessary to provide 
 ## Data residency
 
 Aqua Platform SaaS Edition is deployed in multiple regions around the world. Each region operates as an independent instance of Aqua Platform, with all Customer data remaining physically in that region. Aqua provides you with the option to pre-select the region of your deployment; this may help you comply with cross-border personal data transfers and other legal requirements (such as the GDPR and similar privacy laws) you may be subject to. For more information, see <a>
+
 SaaS Regions</a>
 
 .
